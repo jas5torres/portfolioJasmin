@@ -11,7 +11,7 @@ h1{
     margin: 0;
     padding: 20px 0;
     color: pink;
-    text-shadow: 1px 1px 1px #C71585;
+    text-shadow: 4px 4px 4px #C71585;
     text-align: center;
 }
 
@@ -30,8 +30,7 @@ li a:hover{
 	position: abosolute;
 }
 ul{
-	font-family: Arial, Verdana;
-	font-size: 18px;
+
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
