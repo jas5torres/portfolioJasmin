@@ -27,13 +27,15 @@ li a{
 li a:hover{
 	background-color: #E6EGFA;
 	display: block;
-	position: abosolute;
+
 }
 ul{
 
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	position: relative;
+	float: right;
 }
 footer {
 	font-color: #FF69B4;
