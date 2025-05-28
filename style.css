@@ -22,7 +22,7 @@ nav{
 }
 
 .nav-links li a{
-	color: #DA70D6;
+	color: #C71585;
 	text-decoration: none;
 	padding: 15px 20px;
 	display: inline-block;
@@ -36,8 +36,8 @@ content{
 
 .title{
 	text-align: center;
-	padding: 20px;
-	margin: 10px aut0;
+	padding: 10px;
+	margin: 50px autO;
 	border: 2px  pink;
 	border-radius: 10px;
 }
