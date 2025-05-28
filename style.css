@@ -22,6 +22,8 @@ nav{
 }
 
 .nav-links li a{
+	font-size: 14px;
+	font-family: "Lucida Console", "Courier New", monospace;
 	color: #C71585;
 	text-decoration: none;
 	padding: 15px 20px;
@@ -35,16 +37,16 @@ content{
 }
 
 .title{
+	font-size: 30px;
 	text-align: center;
-	padding: 10px;
-	margin: 50px autO;
-	border: 2px  pink;
+	padding: 0px;
+	margin: 0px auto;
 	border-radius: 10px;
 }
 .about me{
 	text-align: center;
 	padding: 20px;
-	margin: 10px aut0;
+	margin: 10px auto;
 	border: 2px solid pink;
 	border-radius: 10px;
 }
@@ -52,8 +54,8 @@ content{
 .footer{
 	text-align: center;
 	padding: 20px;
-	margin: 10px aut0;
-	border: 2px solid pink;
-	border-radius: 10px;
+	margin: 10px auto;
+	border: 5px solid pink;
+	border-radius: 5px;
 }
 	
