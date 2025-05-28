@@ -1,4 +1,4 @@
-*{
+html{
 	background-color: #FFE4E1;
 }
 body{
@@ -8,7 +8,10 @@ body{
 }
 
 h1{
+    margin: 0;
+    padding: 20px 0;
     color: pink;
+    text-shadow: 4px 4px 1px #C71585;
 }
 nav li{
     display: table-cell;
@@ -20,11 +23,16 @@ li a{
 	text-align: center;
 	padding: 35px 35px;
 	text-decoration: none;
+	
 
 li a:hover{
 	background-color: #E6EGFA;
 }
-
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
 footer {
 	font-color: #FF69B4;
 	text-decoration: underline;
@@ -35,4 +43,12 @@ footer {
 }
 P{
 	text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
 }
