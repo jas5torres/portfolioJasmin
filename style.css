@@ -1,9 +1,20 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: blueviolet;
-    font-size: 10px;
+    background-color: white;
+    font-size: 20px;
 }
 
 h1{
     color: pink;
+}
+nav li{
+    display: table-cell;
+}
+footer {
+	color: white;
+	text-decoration: underline;
+	padding: 10px;
+	text-align: center;
+	width: 100%;
+	box-sizing: border-box;
 }
