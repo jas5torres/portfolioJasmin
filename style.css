@@ -19,10 +19,9 @@ li a{
 	display: block;
 	color: #DB7093;
 	text-align: center;
-	padding: 35px 35px;
+	padding: 30px 30px;
 	text-decoration: none;
-	position: relative;
-	float: right;
+
 
 	
 li a:hover{
