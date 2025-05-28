@@ -11,10 +11,8 @@ h1{
     margin: 0;
     padding: 20px 0;
     color: pink;
-    text-shadow: 4px 4px 1px #C71585;
-}
-nav li{
-    display: table-cell;
+    text-shadow: 1px 1px 1px #C71585;
+    text-align: center;
 }
 
 li a{
@@ -23,12 +21,21 @@ li a{
 	text-align: center;
 	padding: 35px 35px;
 	text-decoration: none;
+	position: relative;
+	float: right;
+	border-top: 2px;
+	border-bottom: 2px;
+	border-right: 2px;
+	border-left: 2px;
 	
-
 li a:hover{
 	background-color: #E6EGFA;
+	display: block;
+	position: abosolute;
 }
 ul{
+	font-family: Arial, Verdana;
+	font-size: 18px;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
