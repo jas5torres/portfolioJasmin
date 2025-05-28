@@ -15,28 +15,27 @@ h1{
     text-align: center;
 }
 
-li a{
-	display: block;
-	color: #DB7093;
-	text-align: center;
-	padding: 30px 30px;
-	text-decoration: none;
-
+nav{
+	float:right;
 }
-	
-li a:hover{
-	background-color: #E6EGFA;
-	display: block;
-
-}
-ul{
-
+.nav-links{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	position: relative;
-	float: right;
 }
+
+.nav-links li{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+.nav-links li a{
+	color: pink;
+	text-decoration: none;
+	padding: 15px 20px;
+	display: inline-block;
+}
+
 footer {
 	font-color: #FF69B4;
 	text-decoration: underline;
@@ -45,10 +44,7 @@ footer {
 	width: 100%;
 	box-sizing: border-box;
 }
-P{
+p{
 	text-align: center;
 }
 
-body {
-  margin: 0 auto;
-}
