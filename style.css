@@ -10,6 +10,18 @@ h1{
 nav li{
     display: table-cell;
 }
+
+li a{
+	display: block;
+	color: pink;
+	text-align: center;
+	padding: 35px 35px;
+	text-decoration: none;
+
+li a:hover{
+	background-color: purple;
+}
+
 footer {
 	color: white;
 	text-decoration: underline;
