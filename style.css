@@ -1,3 +1,6 @@
+*{
+	background-color: #FFE4E1;
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #FFF0F5;
@@ -13,7 +16,7 @@ nav li{
 
 li a{
 	display: block;
-	color: pink;
+	color: #DB7093;
 	text-align: center;
 	padding: 35px 35px;
 	text-decoration: none;
@@ -23,10 +26,13 @@ li a:hover{
 }
 
 footer {
-	color: #FF69B4;
+	font-color: #FF69B4;
 	text-decoration: underline;
 	padding: 10px;
 	text-align: center;
 	width: 100%;
 	box-sizing: border-box;
+}
+P{
+	text-align: center;
 }
