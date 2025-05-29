@@ -58,4 +58,19 @@ navbar{
 	border: 1px solid pink;
 	border-radius: 5px;
 }
+
+.Work{
+	font-color: white;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	
+}
+
+.education{
+	font-color: white;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
 	
