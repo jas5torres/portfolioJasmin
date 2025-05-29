@@ -77,22 +77,25 @@ footer{
 	font-size: 20px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
-	color: #FFF;
+	color: #3d0c02;
 	background-image: url("https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35256.jpg");
 	height: 10%;  
 	width: 100%;
 	text-align: center;
+	margin-top: 10px;
 }
 
 
 .intro{
-	background-image: url("https://img.freepik.com/premium-photo/close-up-pink-electronic-circuit-board-with-many-small-dots-generative-ai_900396-42194.jpg");
-	color: white;
-	font-size: 20px;
+	background-image: url("https://i.pinimg.com/736x/36/ee/cc/36eeccfba3f04436e0dd261f4d1b8dbe--white-fabrics-pink-white.jpg");
+	color: #3d0c02;
+	font-size: 60px;
 	font-weight: bold;
+	margin-top: 20px;
 	text-align: center;
 	width: 100%;
-	height: 30%;
+	height: 35%;
+	font-family:"Lucida Console", "Courier New", monospace;
 }
 .info{
 	background-color: pink;
@@ -100,6 +103,7 @@ footer{
 	font-size: 20px;
 	font-weight: bold;
 	text-align: center;
+	font-family:"Lucida Console", "Courier New", monospace;
 }
 
 
