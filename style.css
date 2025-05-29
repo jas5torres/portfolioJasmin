@@ -45,19 +45,9 @@ nav li a:hover{
 }
 
 .intro{
-	margin: 75;
-	padding: 10;
-	background-image: url(https://img.freepik.com/premium-photo/close-up-pink-electronic-circuit-board-with-many-small-dots-generative-ai_900396-42194.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
+	margin: 0;
+	padding: 0;
 }
-.center{
-	position: absolute;
-	top: 50%
-	left: 50%
-}
-
 
 h1{
     color: #FF69B4;
@@ -67,12 +57,10 @@ h1{
 
 h2{
 	color: white;
-   	text-shadow: 1px 1px 1px #C71585;
     	font-family: "Lucida Console", "Courier New", monospace;
 }
 h3{
 	color: white;
-   	text-shadow: 1px 1px 1px #C71585;
     	font-family: "Lucida Console", "Courier New", monospace;
 	
 }
