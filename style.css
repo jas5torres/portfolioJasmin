@@ -18,7 +18,6 @@ nav .logo header{
 	color: white;
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
-	cursor: pointer;
 }
 
 nav ul{
@@ -53,17 +52,19 @@ h1{
 	font-size: 21px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
-	padding: 0px 10px;
+	padding: 0px auto;
 	color: #FF007F;
-}
+	border: 3px solid pink;
+	border-radius: 10px;
+	background-color: white;
 }
 
 .description{
 	font-size: 16px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
-	padding: 0px 10px;
-	color: white;
+	padding: 0px auto;
+	color: #FFF;
 }
 
 
