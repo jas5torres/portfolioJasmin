@@ -49,10 +49,11 @@ h1{
 }
 
 .school{
-	font-size: 21px;
+	font-size: 22px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
-	padding: 0px auto;
+	padding: 5px 5px;
+	margin: 1px 1px;
 	color: #FF007F;
 	border: 3px solid pink;
 	border-radius: 10px;
@@ -60,11 +61,14 @@ h1{
 }
 
 .description{
-	font-size: 16px;
+	font-size: 18px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	padding: 0px auto;
 	color: #FFF;
+	background-color: #ffb7ce;
+	padding: 5px 3px;
+	margin: 1px 1px;
 }
 
 
