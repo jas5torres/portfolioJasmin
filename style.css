@@ -2,9 +2,9 @@ html{
 	background-color: #EEC0C8;
 }
 header{
-	background-color: white;
-	text-align: center;
-	padding: 25px;
+	position: fixed;
+	top: 0;
+	text-align: left;
 }
 h1{
     color: #FF69B4;
