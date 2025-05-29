@@ -1,5 +1,5 @@
 html{
-	background-color: #FFF5EE;
+	background-color: #FOFFFO;
 }
 h1{
     color: #FF69B4;
@@ -33,18 +33,19 @@ nav{
 }
 
 
-content{
+.content{
 	padding: 50px 0;
 	text-align: center;
 }
 
 .title{
-	font-size: 30px;
-	text-align: center;
+	font-size: 28px;
+	text-align: left;
 	padding: 0px;
 	margin: 0px auto;
 	border-radius: 10px;
 	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: #eec0c8;
 }
 .about me{
 	text-align: center;
