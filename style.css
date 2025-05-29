@@ -12,19 +12,19 @@ body{
 	margin: auto;
 }
 header{
-	position: fixed;
+	position: relative;
 	top: 0;
 	width: 100%;
-	background: blue;
+	background: purple;
+	font-size: 35px;
+	font-align: center;
 
 }
 h1{
     color: #FF69B4;
     text-shadow: 1px 1px 1px #C71585;
 }
-nav{
-	float:right;
-}
+
 navbar{
 	width: 95%
 	margin: auto;
@@ -79,7 +79,7 @@ navbar{
 	border-radius: 5px;
 }
 
-.Work{
+h3, .Work{
 	font-color: white;
 	font-weight: bold;
 	font-size: 20px;
@@ -87,7 +87,7 @@ navbar{
 	
 }
 
-.education{
+h3, .education{
 	font-color: white;
 	font-weight: bold;
 	font-size: 20px;
