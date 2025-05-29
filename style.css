@@ -78,9 +78,10 @@ footer{
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	color: #FFF;
-	background-img: url(https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35256.jpg);
+	background-image: url(https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35256.jpg);
 	height: 10%;  
-	width: 100%	
+	width: 100%;
+	text-align: center;
 
 }
 
