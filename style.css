@@ -95,10 +95,7 @@ footer{
 	width: 100%;
 	height: 35%;
 	font-family:"Lucida Console", "Courier New", monospace;
-}
-
-.intro h3{
-	margin-top: 20px;
+	vertical-align: middle;
 }
 
 .info{
