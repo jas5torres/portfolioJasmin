@@ -11,7 +11,7 @@ nav{
 	position: relative;
 	background-image: linear-gradient(pink, purple);
 }
-nav .logo p{
+nav .logo header{
 	font-size: 30px;
 	font-weight: bold;
 	float: left;
@@ -54,13 +54,6 @@ h1{
     text-shadow: 1px 1px 1px #C71585;
 }
 
-.title{
-	font-size: 28px;
-	border-radius: 10px;
-	font-family: "Lucida Console", "Courier New", monospace;
-
-}
-
 
 .footer{
 	text-align: center;
@@ -70,18 +63,4 @@ h1{
 	border-radius: 5px;
 }
 
-h3, .Work{
-	font-color: white;
-	font-weight: bold;
-	font-size: 20px;
-	font-family: "Lucida Console", "Courier New", monospace;
-	
-}
 
-h3, .education{
-	font-color: white;
-	font-weight: bold;
-	font-size: 20px;
-	font-family: "Lucida Console", "Courier New", monospace;
-}
-	
