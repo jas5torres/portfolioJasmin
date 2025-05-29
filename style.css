@@ -49,22 +49,22 @@ h1{
 }
 
 .school{
-	font-size: 30px;
+	font-size: 25px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	padding: 5px 5px;
 	margin: 1px 1px;
 	height: 6%;
-	width: 95%;
+	width: 100%;
 	color: #FF007F;
-	border: 3px solid #ffb7c5;
+	border: 5px solid #ffb7c5;
 	border-radius: 10px;
 	background-color: white;
 	text-align: center;
 }
 
 .description{
-	font-size: 25px;
+	font-size: 20px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	color: #FFF;
@@ -74,7 +74,7 @@ h1{
 }
 
 footer{
-	font-size: 25px;
+	font-size: 20px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	color: #FFF;
