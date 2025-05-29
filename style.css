@@ -49,6 +49,24 @@ h1{
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
+.school{
+	font-size: 21px;
+	font-family:"Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	padding: 0px 10px;
+	color: #FF007F;
+}
+}
+
+.description{
+	font-size: 16px;
+	font-family:"Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	padding: 0px 10px;
+	color: white;
+}
+
+
 
 
 
