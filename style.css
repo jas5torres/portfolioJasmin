@@ -44,11 +44,6 @@ nav li a:hover{
 	transition: all 0.4s ease 0s;
 }
 
-.intro{
-	margin: 0;
-	padding: 0;
-}
-
 h1{
     color: #FF69B4;
     text-shadow: 1px 1px 1px #C71585;
