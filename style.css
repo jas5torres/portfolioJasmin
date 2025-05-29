@@ -77,14 +77,17 @@ footer{
 	font-size: 40px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
-	color: white;
+	color: #FF007F;
 	background-image: url("https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35253.jpg");
 	height: 10%;  
 	width: 100%;
 	text-align: center;
 	margin-top: 10px;
-}
 
+}
+footer p{
+	vertical-align: middle;
+}
 
 .intro{
 	background-image: url("https://wallpaperaccess.com/full/627571.jpg");
@@ -93,8 +96,14 @@ footer{
 	font-weight: bold;
 	text-align: center;
 	width: 100%;
-	height: 35%;
+	height: 30%;
 	font-family:"Lucida Console", "Courier New", monospace;
+}
+.intro h3{
+	vertical-align: middle;
+}
+
+.intro h2{
 	vertical-align: middle;
 }
 
@@ -118,7 +127,7 @@ footer{
 	font-weight: bold;
 	color: #FFF;
 	background-color: #f2dadf;
-	height: 20%;
+	height: 10%;
 	text-indent: 25px;
 }
 
