@@ -78,7 +78,7 @@ footer{
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	color: #FFF;
-	background-image: url(https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35256.jpg);
+	background-image: url("https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35256.jpg");
 	height: 10%;  
 	width: 100%;
 	text-align: center;
@@ -86,5 +86,20 @@ footer{
 }
 
 
+.intro{
+	background-image: url("https://img.freepik.com/premium-photo/close-up-pink-electronic-circuit-board-with-many-small-dots-generative-ai_900396-42194.jpg");
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	height: 30%;
+.info{
+	background-color: pink;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
 
 
