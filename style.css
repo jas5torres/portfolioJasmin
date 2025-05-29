@@ -19,8 +19,9 @@ nav{
 .nav-links li{
 	display: inline-block;
 	margin-left: 20px;
-	border: 2px solid pink;
+	border: 2px solid #c71585;
 	border-radius: 10px;
+	background-color: #FOFFFO;
 }
 
 .nav-links li a{
@@ -46,7 +47,7 @@ nav{
 	margin: 0px auto;
 	border-radius: 10px;
 	font-family: "Lucida Console", "Courier New", monospace;
-	background-color: #FOFFFO;
+
 }
 .about me{
 	text-align: center;
