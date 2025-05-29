@@ -74,11 +74,11 @@ h1{
 }
 
 footer{
-	font-size: 20px;
+	font-size: 40px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	color: white;
-	background-image: url("https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35256.jpg");
+	background-image: url("https://img.freepik.com/premium-photo/close-up-bunch-robots-pink-background-generative-ai_900775-35253.jpg");
 	height: 10%;  
 	width: 100%;
 	text-align: center;
@@ -96,13 +96,32 @@ footer{
 	height: 35%;
 	font-family:"Lucida Console", "Courier New", monospace;
 }
-.info{
-	background-color: pink;
-	color: white;
-	font-size: 20px;
-	font-weight: bold;
-	text-indent: 25px;
-	font-family:"Lucida Console", "Courier New", monospace;
+
+.intro h3{
+	margin-top: 20px;
 }
 
+.info{
+	font-size: 30px;
+	font-family:"Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	padding: 5px 5px;
+	margin: 1px 1px;
+	height: 6%;
+	width: 100%;
+	color: #FF007F;
+	border: 5px solid #ffb7c5;
+	border-radius: 10px;
+	background-color: white;
+	text-align: center;
+}
+.infosub{
+	font-size: 20px;
+	font-family:"Lucida Console", "Courier New", monospace;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #f2dadf;
+	height: 20%;
+	text-indent: 25px;
+}
 
