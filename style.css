@@ -8,7 +8,7 @@ nav{
 	height: 75px;
 	line-height: 75px;
 	padding: 0px 100px;
-	position: fixed;
+	position: relative;
 	background-image: linear-gradient(pink, purple);
 }
 nav .logo p{
