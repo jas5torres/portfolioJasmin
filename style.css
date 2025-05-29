@@ -7,17 +7,14 @@ body{
 	position: relative;
 }
 
-.container{
-	width: 1280px;
-	margin: auto;
 }
 header{
 	position: relative;
 	top: 0;
 	width: 100%;
-	background: purple;
+	background: white;
 	font-size: 35px;
-	font-align: center;
+	text: center;
 
 }
 h1{
@@ -38,7 +35,7 @@ navbar{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	gap: 60px;
+	gap: 40px;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
