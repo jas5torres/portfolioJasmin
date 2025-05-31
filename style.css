@@ -2,9 +2,11 @@
 	padding: 0px;
 	margin: 0px;
 	box-sizing: border-box;
-	font-size: 12px;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
+}
+html{
+	font-size: 10px
 }
 
 nav{
@@ -14,7 +16,7 @@ nav{
 	background-image: linear-gradient(#FDB0C0, #FFB7C5);
 }
 nav .logo header{
-	font-size: 2em;
+	font-size: 3rem;
 	font-weight: bold;
 	float: left;
 	color: white;
@@ -32,7 +34,7 @@ nav li{
 	letter-spacing: 1.5 px;
 }
 nav li a{
-	font-size: 2em;
+	font-size: 2rem;
 	text-transform:uppercase;
 	color: white;
 	text-decoration: none;
@@ -54,13 +56,13 @@ h1{
 	height: 50%;
 }
 .main{
-	font-size: 5em;
+	font-size: 5rem;
 	text-align: center;
 	align-item: center;
 	color: #FE46A5;
 }
 .sub{
-	font-size: 4em;
+	font-size: 3.2rem;
 	text-align: center;
 	align-item: center;
 	color: #FE46A5;
@@ -72,7 +74,7 @@ h1{
 	background-color:pink;
 }
 .me{
-	font-size: 2em;
+	font-size: 3rem;
 	color: white;
 	text-align: center;
 }
@@ -80,17 +82,17 @@ h1{
 .lang{
 	height: 10%;
 	width: 100%;
-	font-size: 2em;
+	font-size: 2rem;
 	color: #FF007F;
 	background-color:pink;
 }
 .list{
-	font-size: 2em;
+	font-size: 2.5rem;
 	color: white;
 	text-align: center;
 }
 footer{
-	font-size: 3em;
+	font-size: 3rem;
 	font-family:"Lucida Console", "Courier New", monospace;
 	font-weight: bold;
 	color: #FF007F;
@@ -99,9 +101,6 @@ footer{
 	width: 100%;
 	text-align: center;
 
-}
-header{
-	font-size: 16px;
 }
 
 
